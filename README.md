@@ -1,8 +1,6 @@
 # Hi 👋, I'm Koustubh Verma
 
-### ull Stack Web Developer | Machine Learning Enthusiast
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustubh-v" alt="koustubh-v" /></a> </p>
+### Full Stack Web Developer | Machine Learning Enthusiast
 
 - 🔭 I'm currently working on **Interview AI**
 
