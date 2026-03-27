@@ -1,82 +1,36 @@
-<h1 align="center">Koustubh Verma</h1>
-<h3 align="center">Frontend Developer | Problem Solver | Tech Enthusiast</h3>
+# Hi 👋, I'm Koustubh Verma
 
----
+### ull Stack Web Developer | Machine Learning Enthusiast
 
-### About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustubh-v" alt="koustubh-v" /></a> </p>
 
-I am a developer focused on building clean and scalable web applications, with a strong foundation in data structures and problem solving.
+- 🔭 I'm currently working on **Interview AI**
 
-- Strong in Data Structures and Algorithms  
-- Focused on frontend development and system design  
-- Exploring machine learning and artificial intelligence  
-- Regularly practicing problem solving on platforms like LeetCode  
-- Interested in building real-world, impactful projects  
+- 🌱 I'm currently learning **Machine Learning, Agentic AI, GCP, Ruby on Rails, Bezal**
 
----
+- 👯 I'm looking to collaborate on **Open Source Projects**
 
-### Current Work
+- 💬 Ask me about **MERN Stack, Data Structure and Algorithms, Deep Learning Models**
 
-- Working on: https://github.com/koustubh-v/Interview-AI  
-- Learning: Machine Learning, AI, and backend systems  
-- Building projects with a focus on scalability and clean architecture  
+- 📫 How to reach me **hp.koustubh@gmail.com**
 
----
+- ⚡ Fun fact **I didn’t get into coding just to learn syntax. I got into it because I enjoy figuring things out.**
 
-### Portfolio
+- 👨‍💻 All of my projects are available at **[https://porfolio-psi-flax.vercel.app/](https://porfolio-psi-flax.vercel.app/)**
 
-https://porfolio-psi-flax.vercel.app/
-
----
-
-### Contact
-
-Email: hp.koustubh@gmail.com  
-
----
-
-### Connect
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/verma_koustubh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://linkedin.com/in/koustubh-verma" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+<a href="https://github.com/koustubh-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="koustubh-v" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/koustubh-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koustubh-verma" height="30" width="40" /></a>
+<a href="https://twitter.com/verma_koustubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="verma_koustubh" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rails" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
-### Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustubh-v&show_icons=true&locale=en&layout=compact" alt="koustubh-v" /></p>
 
-#### Languages
-C, C++, Java, Python, JavaScript, TypeScript
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustubh-v&show_icons=true&locale=en" alt="koustubh-v" /></p>
 
-#### Frontend
-React, Next.js, HTML, CSS, Tailwind, Redux
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustubh-v&" alt="koustubh-v" /></p>
 
-#### Backend and Databases
-Node.js, Express, Flask, Django  
-MySQL, MongoDB, PostgreSQL
-
-#### Tools and Technologies
-Git, Docker, Firebase, AWS, Linux, Postman, Kubernetes
-
-#### AI and Machine Learning
-TensorFlow, PyTorch, Scikit-learn, Pandas
-
----
-
-### Focus Areas
-
-- Writing clean and maintainable code  
-- Building scalable systems  
-- Strong problem-solving using DSA  
-- Learning through real-world projects  
-
----
-
-### Note
-
-I enjoy taking on new challenges and working with technologies that push me out of my comfort zone.
