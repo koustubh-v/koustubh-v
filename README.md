@@ -1,41 +1,41 @@
-<h1 align="center">Hi 👋, I'm Koustubh Verma</h1>
+<h1 align="center">Koustubh Verma</h1>
 <h3 align="center">Frontend Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I’m a developer who enjoys building clean, scalable web applications and solving real-world problems through code.
+I am a developer focused on building clean and scalable web applications, with a strong foundation in data structures and problem solving.
 
-- 💻 Strong in **Data Structures & Algorithms (DSA)**
-- 🌐 Focused on **Frontend Development & System Design**
-- 🤖 Exploring **Machine Learning & AI**
-- 🧠 Regularly practicing on **LeetCode & problem-solving platforms**
-- ⚡ I enjoy working on challenging projects and learning new technologies along the way
-
----
-
-### 🛠️ Current Work
-
-- 🔭 Working on **[Interview AI](https://github.com/koustubh-v/Interview-AI)**
-- 🌱 Learning **Machine Learning, AI, and Backend Systems**
-- 🚀 Building projects that combine **real-world use cases with scalable architecture**
+- Strong in Data Structures and Algorithms  
+- Focused on frontend development and system design  
+- Exploring machine learning and artificial intelligence  
+- Regularly practicing problem solving on platforms like LeetCode  
+- Interested in building real-world, impactful projects  
 
 ---
 
-### 🌐 Portfolio
+### Current Work
 
-👉 https://porfolio-psi-flax.vercel.app/
-
----
-
-### 📫 Reach Me
-
-📧 hp.koustubh@gmail.com  
+- Working on: https://github.com/koustubh-v/Interview-AI  
+- Learning: Machine Learning, AI, and backend systems  
+- Building projects with a focus on scalability and clean architecture  
 
 ---
 
-### 🤝 Connect With Me
+### Portfolio
+
+https://porfolio-psi-flax.vercel.app/
+
+---
+
+### Contact
+
+Email: hp.koustubh@gmail.com  
+
+---
+
+### Connect
 
 <p align="left">
 <a href="https://twitter.com/verma_koustubh" target="_blank">
@@ -48,38 +48,35 @@ I’m a developer who enjoys building clean, scalable web applications and solvi
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
-#### 💻 Languages
-`C` `C++` `Java` `Python` `JavaScript` `TypeScript`
+#### Languages
+C, C++, Java, Python, JavaScript, TypeScript
 
-#### 🌐 Frontend
-`React` `Next.js` `HTML` `CSS` `Tailwind` `Redux`
+#### Frontend
+React, Next.js, HTML, CSS, Tailwind, Redux
 
-#### ⚙️ Backend & Databases
-`Node.js` `Express` `Flask` `Django`  
-`MySQL` `MongoDB` `PostgreSQL`
+#### Backend and Databases
+Node.js, Express, Flask, Django  
+MySQL, MongoDB, PostgreSQL
 
-#### ☁️ Tools & Technologies
-`Git` `Docker` `Firebase` `AWS` `Linux`  
-`Postman` `Kubernetes`
+#### Tools and Technologies
+Git, Docker, Firebase, AWS, Linux, Postman, Kubernetes
 
-#### 🤖 AI / ML
-`TensorFlow` `PyTorch` `Scikit-learn` `Pandas`
+#### AI and Machine Learning
+TensorFlow, PyTorch, Scikit-learn, Pandas
 
 ---
 
-### 📊 What I Focus On
+### Focus Areas
 
 - Writing clean and maintainable code  
-- Building scalable and efficient systems  
-- Problem-solving using DSA  
-- Learning by building real-world projects  
+- Building scalable systems  
+- Strong problem-solving using DSA  
+- Learning through real-world projects  
 
 ---
 
-### ⚡ Fun Fact
+### Note
 
-I enjoy taking on new challenges — even if it means learning a completely new tech stack from scratch 🚀
-
----
+I enjoy taking on new challenges and working with technologies that push me out of my comfort zone.
