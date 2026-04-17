@@ -37,49 +37,23 @@ I didn't get into coding just to learn syntax. I got into it because I enjoy **f
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react)
-![Vue](https://skillicons.dev/icons?i=vue)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Figma](https://skillicons.dev/icons?i=figma)
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
 
 **Backend**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Rails](https://skillicons.dev/icons?i=rails)
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=rails" alt="Rails" width="40" height="40"/>
 
 **Databases & Cloud**
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![GCP](https://skillicons.dev/icons?i=gcp)
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/>
 
 **ML / AI**
 
-![Python](https://skillicons.dev/icons?i=py)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
 
 **Tools & Other**
 
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/>
 
 ---
 
