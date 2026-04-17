@@ -36,24 +36,25 @@ I didn't get into coding just to learn syntax. I got into it because I enjoy **f
 ## 🛠️ Tech Stack
 
 **Frontend**
-
-<img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+[![Frontend](https://skillicons.dev/icons?i=react,vue,js,bootstrap,figma)](https://skillicons.dev)
 
 **Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=rails" alt="Rails" width="40" height="40"/>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,rails)](https://skillicons.dev)
 
 **Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/>
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,firebase,gcp)](https://skillicons.dev)
 
 **ML / AI**
+[![ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv,keras)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Tools & Other**
-
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/>
+[![Tools](https://skillicons.dev/icons?i=git,linux,c,cpp,arduino,photoshop)](https://skillicons.dev)
 
 ---
 
