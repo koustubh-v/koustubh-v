@@ -36,24 +36,28 @@ I didn't get into coding just to learn syntax. I got into it because I enjoy **f
 ## 🛠️ Tech Stack
 
 **Frontend**
+
 [![Frontend](https://skillicons.dev/icons?i=react,vue,js,bootstrap,figma)](https://skillicons.dev)
 
 **Backend**
+
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,rails)](https://skillicons.dev)
 
 **Databases & Cloud**
+
 [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,firebase,gcp)](https://skillicons.dev)
 
 **ML / AI**
-[![ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv,keras)](https://skillicons.dev)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+[![ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv,keras,jupyter)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Tools & Other**
+
 [![Tools](https://skillicons.dev/icons?i=git,linux,c,cpp,arduino,photoshop)](https://skillicons.dev)
 
 ---
